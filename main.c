@@ -3,7 +3,7 @@
 void kiir(int);
 
 int main() {
-    int x;
+    int x = 123;
     x++;
 
     int y[100][100] = {0};
