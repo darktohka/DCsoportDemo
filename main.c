@@ -3,6 +3,7 @@
 void kiir(int);
 
 int main() {
+    // Adtam egy commentet.
     int x = 123;
     x++;
 
